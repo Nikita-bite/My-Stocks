@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">MyStocks</string>
+    <string name="my_stocks">My-Stocks</string>
+    <string name="Kalkulator">Калькулятор</string>
+    <string name="Menu">Меню</string>
+    <string name="Dividend">Дивиденды</string>
+    <string name="company">Компания</string>
+    <string name="tiker">Тикер</string>
+    <string name="cap">Капитализация</string>
+    <string name="price">Цена</string>
+    <string name="size_div">Размер дивидендов (год / квартал)</string>
+    <string name="s_menu">Скрыть меню</string>
+    <string name="kalkulator_dividend">Калькулятор дивидендов</string>
+    <string name="kalendar_dividend">Календарь дивидендов</string>
+    <string name="how_use">Как пользоваться приложением</string>
+    <string name="company_menu">Компании</string>
+    <string name="about_app">О приложении</string>
+    <string name="settings">Настройки</string>
+    <string name="count">Дивидендный калькулятор</string>
+    <string name="col">Количество</string>
+
+    <string name="width_app">350dp</string>
+    <string name="width_table">65dp</string>
+    <string name="height_table">45dp</string>
+    <string name="countText">ПОСЧИТАТЬ</string>
+    <string name="search">Поиск</string>
+    <string name="cancel_search">Отменить результаты поиска</string>
+    <string name="noConnectToInternet">Нет подключения к интернету!</string>
+    <string name="div_cal">Дивидендный календарь</string>
+    <string name="div_date">дата выплаты дивидендов</string>
+    <string name="load_data">Подождите 5 секунд. Происходит загрузкак данных.</string>
+    <string name="open_site">Открыть сайт</string>
+    <string name="m_tax">Налогообложение дивидендов</string>
+    <string name="tax_in_dif_countries">Налогообложение в разных странах*</string>
+    <string name="tax_rus">Россия - 13%</string>
+    <string name="tax_usa">США - 10%</string>
+    <string name="tax_germ">Германия - 25%</string>
+    <string name="tax_uk">Великобритания - 12.5%</string>
+    <string name="tax_japan">Япония - 15%</string>
+    <string name="tax_china">Китай - 20%</string>
+    <string name="tax_hk">Гонконг - 0%</string>
+    <string name="tax_sing">Сингапур - 10%</string>
+    <string name="about_my_stocks">О My-Stocks</string>
+    <string name="my_stocks_1000">My-Stocks - это приложение и сайт для удобного просмотра и подсчёта дивидендов около 1000 компаний.</string>
+    <string name="my_stocks_2000">В данном приложении вы можете отслеживать дивиденды всех доступных компаний, а также посчитать количество дивидендов, выбранной компании, в дивидендном калькуляторе.</string>
+    <string name="close_calc">Отменить расчёт</string>
+    <string name="no_connect_2">Нет интернета!</string>
+    <string name="update_table">Обновить таблицу</string>
+    <string name="for_residents">*Для резидентов РФ</string>
+
+    <string-array name="countryNames">
+        <item>Россия</item>
+        <item>США</item>
+        <item>Германия</item>
+        <item>Великобритания</item>
+        <item>Япония</item>
+        <item>Китай</item>
+        <item>Гонконг</item>
+        <item>Сингапур</item>
+    </string-array>
+
+</resources>
